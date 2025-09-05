@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.pwn": "pawn",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
